@@ -6,6 +6,8 @@ function setup(){
 
 }
 
+var john = "name";
+
 function draw(){
     
     background(mouseY/2,100,100);
